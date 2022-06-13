@@ -65,3 +65,5 @@ Look changes on your browser!
 Thanks.
 
 
+
+https://www.coreprogramm.com/2019/12/how-to-use-signalr-in-mvc.html
